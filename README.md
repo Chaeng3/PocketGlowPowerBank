@@ -5,7 +5,11 @@
 本项目是一款基于 **IP5353** 的开源快充充电宝，采用单节 **21700 锂电池**作为储能单元，支持 **Type-C 单进单出**和最高 **22.5W 快充**。
 
 项目使用 **18650 电池夹**作为 21700 电池两端的固定与导电结构，以节省内部空间，并加入了高亮照明功能。低功耗照明模式下，可实现约 **10 天续航**。
-
+![License](https://img.shields.io/badge/License-CERN--OHL--W--2.0-blue)
+![Hardware](https://img.shields.io/badge/Hardware-Open%20Source-orange)
+![Fast Charge](https://img.shields.io/badge/Fast%20Charge-22.5W-red)
+![Battery](https://img.shields.io/badge/Battery-21700-green)
+![USB-C](https://img.shields.io/badge/USB-Type--C-lightgrey)
 ---
 
 ## 项目链接
