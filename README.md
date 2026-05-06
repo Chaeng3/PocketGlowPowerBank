@@ -15,7 +15,7 @@
 
 ## 项目链接
 
-- 立创开源硬件平台：  
+- 立创开源硬件平台（包含3D外壳文件）：  
   https://oshwhub.com/chaeng/project_kxdotplz
 
 - B站视频演示：  
